@@ -3,7 +3,7 @@
 Description:
 Embark on a data exploration journey with the World Bank Data Explorer project! Leveraging web scraping techniques and the World Bank API, this project delves into a treasure trove of information encompassing country details. The dataset includes crucial information such as country name, country ID, capital city, geographical location, income level, and lending type.
 
-🌍 ##Data Points:
+🌍 **Data Points**:
 1. **Country Name:** Uncover the names of diverse nations across the globe.
 2. **Country ID:** Unique identifiers for each country, providing a foundation for data analysis.
 3. **Capital City:** Explore the capitals that serve as the heartbeat of nations.
